@@ -1,3 +1,7 @@
+ASHTON SERRAO
+9576 TE COMPS A - BATCH C
+EXP10 - POSTLAB
+
 1. How to Overcome Combinatorial Explosion in TSP:
    - Approximation Algorithms: Instead of searching exhaustively for the optimal solution, approximation algorithms provide near-optimal solutions with significantly reduced computational complexity. Examples include nearest neighbor algorithms, minimum spanning tree algorithms, and simulated annealing.
    - Heuristic Methods: Heuristic methods aim to find good solutions quickly by employing rules of thumb or strategies based on problem-specific knowledge. Examples include genetic algorithms, ant colony optimization, and tabu search.
