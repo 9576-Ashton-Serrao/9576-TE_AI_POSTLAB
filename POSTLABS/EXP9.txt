@@ -1,3 +1,7 @@
+ASHTON SERRAO
+9576 TE COMPS A - BATCH C
+EXP9 - POSTLAB
+
 Applications of Expert Systems:
 1. Medical Diagnosis: Expert systems are used in healthcare for diagnosing diseases, recommending treatments, and providing medical advice based on patient symptoms, medical history, and knowledge from medical experts.
 2. Financial Analysis: Expert systems are employed in finance for risk assessment, portfolio management, credit scoring, and investment decision-making by analyzing market data, financial trends, and regulatory information.
