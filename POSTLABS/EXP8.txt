@@ -1,3 +1,7 @@
+ASHTON SERRAO
+9576 TE COMPS A - BATCH C
+EXP8 - POSTLAB
+
 1. Methods to Solve the Tower of Hanoi Problem:
    - Recursive Approach: The Tower of Hanoi problem can be elegantly solved using a recursive algorithm that moves disks from one peg to another while adhering to the rules of the game.
    - Iterative Approach: An iterative solution involves simulating the recursive steps of the Tower of Hanoi algorithm using loops and explicit stack data structures.
