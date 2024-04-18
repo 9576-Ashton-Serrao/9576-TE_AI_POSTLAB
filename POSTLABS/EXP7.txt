@@ -1,3 +1,7 @@
+ASHTON SERRAO
+9576 TE COMPS A - BATCH C
+EXP7 - POSTLAB
+
 1. Advantages and Disadvantages of State Space Search:
    - Advantages:
      - State space search algorithms are applicable to a wide range of problems, including puzzles, planning, optimization, and game playing.
