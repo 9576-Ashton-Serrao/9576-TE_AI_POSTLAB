@@ -1,3 +1,7 @@
+ASHTON SERRAO
+9576 TE COMPS A - BATCH C
+EXP2 - POSTLAB
+
 Post Lab Assignment:
 1. What is the relationship between tic-tac-toe and magic square?
 If you consider a 3x3 magic square, where each cell holds a number such that all rows,
