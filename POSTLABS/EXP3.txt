@@ -1,4 +1,6 @@
-
+ASHTON SERRAO
+9576 TE COMPS A - BATCH C
+EXP3 - POSTLAB
 
 1. **Time Complexity of the Water Jug Problem**:
    - The time complexity of the Water Jug problem is determined by the number of possible states that need to be explored to find the solution.
